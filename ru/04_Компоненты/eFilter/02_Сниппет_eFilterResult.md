@@ -19,7 +19,7 @@
  ````
 
  Если для eFilter задан параметр ajax = 1 то стандартная пагинация переопределяется.
- Обертка пагинации должна иметь класс .pagination!
+ Обертка пагинации должна иметь класс .paginate!
  ```
 &TplNextP = `@CODE: <a data-prefix="" data-page="[+num+]">&gt;</a>`
 &TplPrevP = `@CODE: <a data-prefix="" data-page="[+num+]">&lt;</a>`
